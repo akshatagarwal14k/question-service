@@ -2,9 +2,9 @@
   question-service
   quiz-service
   service-registry
-  gateway-api
+  api-gateway
 2. Run all 4 services in following order:
   service-registry
-  gateway-api
+  api-gateway
   question-service
   quiz-service
